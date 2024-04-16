@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="후위식 계산 프로그램.cpp">
+    <ClCompile Include="후위식 계산 프로그램.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
